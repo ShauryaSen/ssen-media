@@ -13,8 +13,8 @@
 # oh no la serna advertisement
 ![JOIN STUYPY](https://user-images.githubusercontent.com/66851598/151902580-9fc44d8b-8edc-4973-a693-11d18e55806b.png)
 
-# Epic VHL Central Webdev attempt
-[epic webdever](https://user-images.githubusercontent.com/66851598/157155113-48070789-9670-42fd-b563-6d5b9e6f9fc1.png)
+# Epic VHL Central HTML attempt
+<img src="https://user-images.githubusercontent.com/66851598/157155461-dcb3c5e0-270f-4b17-8049-df4c61c8cd6a.png" width="200" height="300">
 
 # good guy!
 <img src="https://user-images.githubusercontent.com/66851598/151900531-b7c0dee3-ba74-4b54-93cc-720b70ec3397.jpg" width="200" height="200">
